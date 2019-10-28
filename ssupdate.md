@@ -27,3 +27,5 @@ SuperSense Update Decisions
 	> beginning|`n.TIME` to end|`n.TIME`
 
 - 	the character "**#**" is interpreted as being the lexical category `SYM` as opposed to representing the word "number"
+
+- the verb '***do***' was frequently tagged as `v.social` or `v.stative`, and is now `v.change` because it involves an agentive activity. It differs from `v.stative` in that it does not involve a state of being, rather an action. Similarly, it differs from `v.social` in that there often is no social interaction with another person. `v.change` was chosen as the best all-encompassing supsersense.
